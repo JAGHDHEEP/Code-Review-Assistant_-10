@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Review Assistant",
+  "description": "This app automatically reviews source code using Gemini. Users can upload code files, and the app will analyze them for readability, modularity, structure, and potential bugs — then provide a detailed, structured review report with improvement suggestions.",
+  "requestFramePermissions": []
+}
